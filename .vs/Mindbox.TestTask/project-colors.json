@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14f9d354-aae3-4a31-905e-cdab500da09b": {
+      "ProjectGuid": "14f9d354-aae3-4a31-905e-cdab500da09b",
+      "DisplayName": "GeometricFigures",
+      "ColorIndex": 0
+    },
+    "2d06afc5-9a90-4d78-a901-b3c76c861954": {
+      "ProjectGuid": "2d06afc5-9a90-4d78-a901-b3c76c861954",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "6e63211a-2f26-4b9b-a047-5d74a6c1f5f1": {
+      "ProjectGuid": "6e63211a-2f26-4b9b-a047-5d74a6c1f5f1",
+      "DisplayName": "1GeometricFiguresUnitTests",
+      "ColorIndex": 2
+    },
+    "0c6c190d-9bdf-48a4-8357-1ec1cc007004": {
+      "ProjectGuid": "0c6c190d-9bdf-48a4-8357-1ec1cc007004",
+      "DisplayName": "GeometricFiguresUnitTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

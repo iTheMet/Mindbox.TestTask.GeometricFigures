@@ -1,0 +1,12 @@
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\bin\Debug\net6.0\GeometricFigures.deps.json
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\bin\Debug\net6.0\GeometricFigures.dll
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\bin\Debug\net6.0\ref\GeometricFigures.dll
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\bin\Debug\net6.0\GeometricFigures.pdb
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.csproj.AssemblyReference.cache
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.AssemblyInfoInputs.cache
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.AssemblyInfo.cs
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.csproj.CoreCompileInputs.cache
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.dll
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\ref\GeometricFigures.dll
+R:\Документы\GIT\Mindbox.TestTask\GeometricFigures\obj\Debug\net6.0\GeometricFigures.pdb
